@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.70053476,14.026738 L22.2994652,14.026738 C22.8369833,14.026738 23.2727273,14.462482 23.2727273,15 C23.2727273,15.537518 22.8369833,15.973262 22.2994652,15.973262 L7.70053476,15.973262 C7.16301698,15.973262 6.72727273,15.537518 6.72727273,15 C6.72727273,14.462482 7.16301698,14.026738 7.70053476,14.026738 Z" id="path-1"></path>
+        <path d="M15.973262,7.70053476 L15.973262,22.2994652 C15.973262,22.836983 15.537518,23.2727273 15,23.2727273 C14.462482,23.2727273 14.026738,22.836983 14.026738,22.2994652 L14.026738,7.70053476 C14.026738,7.16301674 14.462482,6.72727273 15,6.72727273 C15.537518,6.72727273 15.973262,7.16301674 15.973262,7.70053476 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="群消息（加群限制、加好友限制）-copy" transform="translate(-780.000000, -3453.000000)">
+            <g id="分组-6" transform="translate(780.000000, 3453.000000)">
+                <circle id="椭圆形" fill="#142E4D" fill-rule="nonzero" opacity="0.697753906" cx="15" cy="15" r="15"></circle>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#32B2F7" transform="translate(15.000000, 15.000000) rotate(-315.000000) translate(-15.000000, -15.000000) " xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-5" fill="#32B2F7" transform="translate(15.000000, 15.000000) rotate(-315.000000) translate(-15.000000, -15.000000) " xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3px" height="15px" viewBox="0 0 3 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.5,3 C0.671573,3 0,2.328425 0,1.5 C0,0.671575 0.671573,0 1.5,0 C2.328427,0 3,0.671575 3,1.5 C3,2.328425 2.328427,3 1.5,3 Z" id="path-1"></path>
+        <path d="M1.5,9 C0.671573,9 0,8.328425 0,7.5 C0,6.671575 0.671573,6 1.5,6 C2.328427,6 3,6.671575 3,7.5 C3,8.328425 2.328427,9 1.5,9 Z" id="path-3"></path>
+        <path d="M1.5,15 C0.671573,15 0,14.328427 0,13.5 C0,12.671573 0.671573,12 1.5,12 C2.328427,12 3,12.671573 3,13.5 C3,14.328427 2.328427,15 1.5,15 Z" id="path-5"></path>
+    </defs>
+    <g id="分组-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Clip-3" fill="#B2BCC6" xlink:href="#path-1"></use>
+        <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <use id="Clip-5" fill="#B2BCC6" xlink:href="#path-3"></use>
+        <mask id="mask-6" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <use id="Clip-7" fill="#B2BCC6" xlink:href="#path-5"></use>
+    </g>
+</svg>

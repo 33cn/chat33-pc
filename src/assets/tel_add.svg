@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 11 copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.9999804,0 C10.8598028,0 14,3.1401776 14,6.9999804 C14,10.8598028 10.8598028,14 7,14 C3.1401776,14 0,10.8598028 0,6.9999804 C0,3.1401776 3.1401776,0 6.9999804,0 Z" id="path-1"></path>
+        <path d="M10.6000076,6.40003 C10.9316816,6.40003 11.200028,6.6683764 11.2,7.000028 C11.2,7.3310552 10.9316564,7.6000232 10.5999796,7.6000232 L7.6000204,7.6000232 L7.6000204,10.60003 C7.6000204,10.931088 7.3316488,11.2 6.999972,11.2 C6.6683512,11.2 6.3999796,10.931088 6.3999796,10.60003 L6.3999796,7.5999952 L3.4000456,7.5999952 C3.0683716,7.5999952 2.8,7.3310552 2.8,7.000028 C2.8,6.6684044 3.0683436,6.40003 3.4000456,6.40003 L6.4000076,6.40003 L6.4000076,3.3999952 C6.4000076,3.0683744 6.6683512,2.8 7,2.8 C7.3316488,2.8 7.6000204,3.0683464 7.6000204,3.3999952 L7.6000204,6.40003 L10.6000076,6.40003 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="好友消息列表、文件、转发消息、阅后即焚消息" transform="translate(-425.000000, -3018.000000)">
+            <g id="分组-11-copy-3" transform="translate(425.000000, 3018.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#EAF6FF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-5" fill="#32B2F7" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.0588235,20.9411765 L30.9411765,20.9411765 C31.5259488,20.9411765 32,21.4152276 32,22 C32,22.5847724 31.5259488,23.0588235 30.9411765,23.0588235 L15.0588235,23.0588235 C14.4740514,23.0588235 14,22.5847724 14,22 C14,21.4152276 14.4740514,20.9411765 15.0588235,20.9411765 Z" id="path-1"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息列表搜索、群详情" transform="translate(-644.000000, -761.000000)">
+            <g id="分组-copy-2" transform="translate(644.000000, 761.000000)">
+                <rect id="矩形" fill="#EAF6FF" x="0" y="0" width="44" height="44" rx="4"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#61C7FF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

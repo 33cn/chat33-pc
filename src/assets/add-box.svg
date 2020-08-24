@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.5972222,11.5972222 L11.5972222,6.76470588 C11.5972222,6.34237029 11.9395925,6 12.3619281,6 C12.7842637,6 13.126634,6.34237029 13.126634,6.76470588 L13.126634,11.5972222 L18.2352941,11.5972222 C18.6576297,11.5972222 19,11.9395925 19,12.3619281 C19,12.7842637 18.6576297,13.126634 18.2352941,13.126634 L13.126634,13.126634 L13.126634,18.2352941 C13.126634,18.6576295 12.7842637,19 12.3619281,19 C11.9395925,19 11.5972222,18.6576295 11.5972222,18.2352941 L11.5972222,13.126634 L6.76470588,13.126634 C6.34237049,13.126634 6,12.7842637 6,12.3619281 C6,11.9395925 6.34237049,11.5972222 6.76470588,11.5972222 L11.5972222,11.5972222 Z" id="path-1"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="空页面" transform="translate(-306.000000, -18.000000)">
+            <g id="搜索栏" transform="translate(80.000000, 0.000000)">
+                <g id="分组-copy-3" transform="translate(226.000000, 18.000000)">
+                    <rect id="矩形" fill="#EAF6FF" x="0" y="0" width="24" height="24" rx="12"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="合并形状" fill="#32B2F7" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M-0.299465241,6.02673797 L14.2994652,6.02673797 C14.8369833,6.02673797 15.2727273,6.46248198 15.2727273,7 C15.2727273,7.53751802 14.8369833,7.97326203 14.2994652,7.97326203 L-0.299465241,7.97326203 C-0.836983019,7.97326203 -1.27272727,7.53751802 -1.27272727,7 C-1.27272727,6.46248198 -0.836983019,6.02673797 -0.299465241,6.02673797 Z" id="path-1"></path>
+        <path d="M7.97326203,-0.299465241 L7.97326203,14.2994652 C7.97326203,14.836983 7.53751802,15.2727273 7,15.2727273 C6.46248198,15.2727273 6.02673797,14.836983 6.02673797,14.2994652 L6.02673797,-0.299465241 C6.02673797,-0.836983262 6.46248198,-1.27272727 7,-1.27272727 C7.53751802,-1.27272727 7.97326203,-0.836983262 7.97326203,-0.299465241 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="群消息（加群限制、加好友限制）-copy" transform="translate(-796.000000, -1688.000000)">
+            <g id="分组-4" transform="translate(796.000000, 1688.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#61C7FF" transform="translate(7.000000, 7.000000) rotate(-315.000000) translate(-7.000000, -7.000000) " xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-5" fill="#61C7FF" transform="translate(7.000000, 7.000000) rotate(-315.000000) translate(-7.000000, -7.000000) " xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

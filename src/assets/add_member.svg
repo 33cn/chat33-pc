@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.0588235,20.9411765 L29.9411765,20.9411765 C30.5259488,20.9411765 31,21.4152276 31,22 C31,22.5847724 30.5259488,23.0588235 29.9411765,23.0588235 L14.0588235,23.0588235 C13.4740514,23.0588235 13,22.5847724 13,22 C13,21.4152276 13.4740514,20.9411765 14.0588235,20.9411765 Z" id="path-1"></path>
+        <path d="M23.0588235,14.0588235 L23.0588235,29.9411765 C23.0588235,30.5259486 22.5847724,31 22,31 C21.4152276,31 20.9411765,30.5259486 20.9411765,29.9411765 L20.9411765,14.0588235 C20.9411765,13.4740512 21.4152276,13 22,13 C22.5847724,13 23.0588235,13.4740512 23.0588235,14.0588235 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息列表搜索、群详情" transform="translate(-580.000000, -761.000000)">
+            <g id="分组-copy" transform="translate(580.000000, 761.000000)">
+                <rect id="矩形" fill="#EAF6FF" x="0" y="0" width="44" height="44" rx="4"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#61C7FF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-5" fill="#61C7FF" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

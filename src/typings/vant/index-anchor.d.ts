@@ -1,0 +1,1 @@
+declare module 'vant/lib/index-anchor';

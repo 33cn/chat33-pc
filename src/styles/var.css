@@ -1,0 +1,31 @@
+:root {
+  --common-border-radius: 4px;
+  --icon-default-color: #8A97A5; /* 左侧菜单默认颜色 */
+  --icon-active-color: #32B2F7; /* + 新朋友群名颜色 聊天气泡背景色 */
+  --button-background: #32B2F7;
+  --common-blue: #32B2F7;
+  --border-radius-dialog: 10px; /* 弹窗类圆角 */
+  --gray-background: #f1f4f6;
+  --input-background: #f1f4f6;
+  --top-message-background: #f1f4f6;
+  --common-border: 1px solid #f1f4f6;
+  --menu-width: 260px;
+  --contact-active-background: #DBE9F3; /* 联系人菜单选中 */
+  --main-icon-color: #24374E;
+  --left-bar-width: 80px;
+  --normal-font-size: 14px;
+  --small-font-size: 12px;
+  --mask-background: rgba(36, 55, 78, 0.8);
+  --pop-top: 60px;
+
+  /* 阴影统一 */
+  --shadow-dialog: 0 0 14px 0 #CFDFE9; /* 深色：弹窗类、详情窗、确认窗、$notify */
+  --shadow-select: 0 0 14px 0 #CFDFE9; /* 浅色：右键/点击选项、消息气泡 */
+  --shadow-border: 0 0 14px 0 rgba(15, 136, 203, 0.1); /* 会话/好友菜单、新朋友、右栏 */
+
+  /* 字体统一 */
+  --font-color-light: #8A97A5;
+  --font-color-dark: #24374E;
+  --font-color-red: #DD5F5F;
+  --font-color-yellow: #EFA019;
+}

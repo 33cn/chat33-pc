@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>逐条转发</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.4056635,18.5968678 L23.0534704,11.5418684 C21.8252991,10.3633431 19.7837238,11.2337432 19.7837238,12.9359059 L19.7837238,15.8316188 C14.5426291,16.5019165 10.2877503,20.6405723 9.04096894,25.6652201 C8.75429162,26.8205454 10.0311361,27.6457029 11.0317088,27.0009588 C13.2541856,25.5688775 15.811864,23.8805176 19.7837238,23.5352453 L19.7837238,27.0459405 C19.7837238,28.7481014 21.8252991,29.6185397 23.0534704,28.4400149 L30.4056635,21.3849374 C31.1981122,20.6245353 31.1981122,19.357314 30.4056635,18.5968678 Z" id="path-1"></path>
+    </defs>
+    <g id="逐条转发" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#E5F7F0" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Clip-2" fill="#62DEAD" xlink:href="#path-1"></use>
+    </g>
+</svg>
