@@ -3,17 +3,10 @@
   "version": "2.9.0",
   "private": true,
   "scripts": {
-    "lint": "vue-cli-service lint",
-    "serve:dev": "vue-cli-service electron:serve --mode develop",
-    "build:dev": "vue-cli-service electron:build --mode buildDev",
-    "build:prod": "vue-cli-service electron:build --mode buildProd",
-    "deploy:dev": "sh ./deployDev.sh",
-    "serve:prod": "vue-cli-service electron:serve --mode product",
-    "electron:serve-mock": "vue-cli-service electron:serve --mode mock",
-    "electron:serve-dld": "vue-cli-service electron:serve --mode dld",
+    "build": "vue-cli-service electron:build --mode product",
+    "serve": "vue-cli-service electron:serve --mode product",
     "inspect": "vue-cli-service inspect",
-    "postinstall": "electron-builder install-app-deps",
-    "deploy:prod": "sh ./deployProd.sh"
+    "postinstall": "electron-builder install-app-deps"
   },
   "dependencies": {
     "@33cn/wallet-base": "^1.0.2",
