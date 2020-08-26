@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 12 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,14 C3.1340064,14 0,10.865988 0,7 C0,3.134012 3.1340064,0 7,0 C10.8659936,0 14,3.134012 14,7 C14,10.865988 10.8659936,14 7,14 Z" id="path-1"></path>
+        <path d="M4.2,6.16 L9.8,6.16 C10.263918,6.16 10.64,6.536068 10.64,7 C10.64,7.463932 10.263918,7.84 9.8,7.84 L4.2,7.84 C3.736082,7.84 3.36,7.463932 3.36,7 C3.36,6.536068 3.736082,6.16 4.2,6.16 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="好友消息列表、文件、转发消息、阅后即焚消息" transform="translate(-425.000000, -2934.000000)">
+            <g id="分组-12-copy" transform="translate(425.000000, 2934.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-7" fill="#FAEEEE" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-9" fill="#DD5F5F" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

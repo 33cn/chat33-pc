@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.823529412,6.17647059 L13.1764706,6.17647059 C13.6312935,6.17647059 14,6.54517706 14,7 C14,7.45482294 13.6312935,7.82352941 13.1764706,7.82352941 L0.823529412,7.82352941 C0.368706676,7.82352941 0,7.45482294 0,7 C0,6.54517706 0.368706676,6.17647059 0.823529412,6.17647059 Z" id="path-1"></path>
+        <path d="M7.82352941,0.823529412 L7.82352941,13.1764706 C7.82352941,13.6312933 7.45482294,14 7,14 C6.54517706,14 6.17647059,13.6312933 6.17647059,13.1764706 L6.17647059,0.823529412 C6.17647059,0.368706471 6.54517706,0 7,0 C7.45482294,0 7.82352941,0.368706471 7.82352941,0.823529412 Z" id="path-3"></path>
+    </defs>
+    <g id="聊天" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="群消息（加群限制、加好友限制）-copy" transform="translate(-621.000000, -149.000000)">
+            <g id="分组" transform="translate(621.000000, 149.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-3" fill="#61C7FF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Clip-5" fill="#61C7FF" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

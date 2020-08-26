@@ -1,0 +1,57 @@
+@import './var.css';
+/* 汉字使用思源黑体 其它使用Arial*/
+@font-face {
+  font-family: 'mixFont';
+  src: url('../assets/fonts/SourceHanSansCN-Normal.woff');
+  unicode-range: U+4E00-9FCB;
+  /*汉字字符集*/
+}
+
+@font-face {
+  font-family: "mixFont", "Microsoft YaHei", sans-serif;
+  src: local('Arial');
+  /*win平台*/
+}
+body {
+  margin: 0;
+  background: white;
+  font-size: var(--normal-font-size);
+  color: var(--font-color-dark);
+}
+
+html,
+body,
+input,
+textarea,
+select,
+button,
+pre{
+  font-family: "PingFang SC", "Helvetica Neue", Helvetica, "Hiragino Sans GB", "mixFont", "Microsoft YaHei", sans-serif;
+  line-height: 1; /* 避免字体行高不同 */
+}
+
+/*!* 设置滚动条的样式 *!*/
+/*::-webkit-scrollbar {*/
+  /*width: 8px;*/
+  /*background: transparent;*/
+/*}*/
+
+/*!*!* 滚动槽 *!*!*/
+/*!*::-webkit-scrollbar-track {*!*/
+  /*!*background: transparent;*!*/
+/*!*}*!*/
+
+  /*!* 滚动条滑块 *!*/
+/*::-webkit-scrollbar-thumb {*/
+  /*background: #F1F4F6;*/
+  /*border-radius: 3px;*/
+  /*!*background-clip: content-box;*!*/
+  /*!*border-right: 4px transparent solid;*!*/
+/*}*/
+
+/*::-webkit-scrollbar-thumb:hover {*/
+  /*background: #DBE9F3;*/
+  /*border-radius: 4px;*/
+/*}*/
+
+

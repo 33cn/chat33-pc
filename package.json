@@ -1,0 +1,61 @@
+{
+  "name": "chat33pc",
+  "version": "2.9.0",
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service electron:build --mode product",
+    "serve": "vue-cli-service electron:serve --mode product",
+    "inspect": "vue-cli-service inspect",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "@33cn/wallet-base": "^1.0.2",
+    "ajv": "^6.9.2",
+    "ali-oss": "^6.1.0",
+    "axios": "^0.18.1",
+    "benz-amr-recorder": "^1.0.13",
+    "electron": "8.0.0",
+    "electron-updater": "^4.0.6",
+    "ffprobe": "^1.1.0",
+    "ffprobe-static": "^3.0.0",
+    "fs-extra": "^7.0.1",
+    "js-pinyin": "^0.1.9",
+    "macaddress": "^0.2.9",
+    "sqlite3": "^4.1.1",
+    "ts-import-plugin": "^1.6.3",
+    "v-autosize": "^1.0.0",
+    "vant": "^2.5.3",
+    "vue": "^2.6.7",
+    "vue-class-component": "^6.3.2",
+    "vue-cleave-component": "^2.1.2",
+    "vue-linkify": "^1.0.1",
+    "vue-property-decorator": "^7.3.0",
+    "vue-router": "^3.1.1",
+    "vuescroll": "^4.11.1",
+    "vuex": "^3.1.0",
+    "vuex-class": "^0.3.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "^3.4.1",
+    "@vue/cli-service": "^3.12.0",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^12.0.1",
+    "postcss-url": "^8.0.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.6.0",
+    "vue-cli-plugin-electron-builder": "~1.4.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "postcss": {
+    "plugins": {
+      "postcss-import": {},
+      "postcss-url": {},
+      "postcss-cssnext": {}
+    }
+  },
+  "browserslist": "Electron 3.0",
+  "description": "新版聊天项目PC端",
+  "author": "zhoudi<zhoudi@33.cn>",
+  "main": "background.js",
+  "__npminstall_done": false
+}

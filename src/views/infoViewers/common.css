@@ -1,0 +1,78 @@
+/* todo 整理该文件夹下通用样式和逻辑 */
+/* 通用 */
+
+.info-header {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+}
+
+.info-text_wrapper {
+  display: inline-block;
+  margin-left: 20px;
+  width: 288px;
+  vertical-align: middle;
+  font-size: 0;
+}
+
+.info-text-name {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 33px;
+  margin: 0;
+}
+
+.info-text-id {
+  margin: 11px 0 0 0;
+  color: var(--font-color-light);
+  line-height: 20px;
+  font-size: var(--normal-font-size);
+}
+
+.hr {
+  width: 100%;
+  border-bottom: var(--common-border);
+}
+
+.note_wrapper {
+  line-height: 20px;
+  color: var(--font-color-light);
+}
+
+.common-btn {
+  margin: 60px 20px 0 0;
+  width: 140px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+/* 通用 */
+
+/* 联系人页 */
+.contact_info {
+  margin: 100px auto 0;
+  width: 420px;
+  background: #fff;
+}
+
+.note-editor {
+  vertical-align: top;
+  margin-left: 21px;
+}
+
+.hr_contact {
+  margin: 30px 0 19px;
+}
+/* 联系人页 end */
+
+/* 添加群/好友通用 */
+.add_wrapper {
+  margin-top: 40px;
+  width: 420px;
+  background: #fff;
+}
+
+.hr_add {
+  margin: 20px 0;
+}
+/* 添加群/好友通用 end */

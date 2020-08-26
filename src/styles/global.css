@@ -1,0 +1,119 @@
+@import './var.css';
+
+/*
+z-index:
+*/
+
+.g-menu-list-item { /* 搜索结果列表项/多选好友列表项 */
+  padding: 11px 10px;
+  height: calc(52px - 22px);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.g-menu-list-item_dialog { /* 在弹窗中的多选好友列表项左右边距20px */
+  padding: 11px 20px;
+}
+
+.g-menu-list-item_dialog_left { /* 在弹窗中的多选好友列表左侧留出空间 */
+  padding-right: 10px;
+  margin-right: 26px;
+}
+
+.g-menu-list-item-header {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+
+.g-menu-list-item_active {
+  background: var(--contact-active-background);
+}
+
+.g-tool-drag {
+  -webkit-app-region: drag;
+}
+
+.g-tool-no_drag {
+  -webkit-app-region: no-drag;
+}
+
+/* 新版btn样式 需button标签 */
+.g-btn_default {
+  width: 90px;
+  height: 30px;
+  color: var(--font-color-light);
+  text-align: center;
+  border: 1px solid var(--font-color-light);
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+  font-size: var(--normal-font-size);
+  font-weight: bold;
+  background: #fff;
+}
+
+.g-btn_active {
+  width: 90px;
+  height: 30px;
+  color: #fff;
+  text-align: center;
+  border-radius: 15px;
+  background: var(--button-background);
+  border: 1px solid var(--button-background);
+  outline: none;
+  cursor: pointer;
+  font-size: var(--normal-font-size);
+  font-weight: bold;
+}
+
+.g-btn_active_disable {
+  background: #C8D3DE;
+  cursor: not-allowed;
+  border: none;
+}
+
+.g-btn_danger {
+  width: 90px;
+  height: 30px;
+  color: var(--font-color-red);
+  text-align: center;
+  border-radius: 15px;
+  border: 1px solid var(--font-color-red);
+  outline: none;
+  cursor: pointer;
+  font-size: var(--normal-font-size);
+  font-weight: bold;
+  background: #fff;
+}
+
+.g-letters {
+  width: 16px;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+}
+
+.g-letters > a {
+  width: 100%;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--font-color-light);
+}
+
+.g-drag_bar {
+  height: 58px;
+  position: fixed;
+  top: 2px;
+  right: 0;
+  left: calc(80px + 260px);
+  -webkit-app-region: drag;
+}
+
+.g-dialog {
+  box-shadow: var(--shadow-dialog);
+  border-radius: var(--border-radius-dialog);
+}

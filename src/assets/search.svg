@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>搜索</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,30 C7.715729,30 1,23.28427 1,15 C1,6.71573 7.715729,0 16,0 C24.28427,0 31,6.71573 31,15 C31,23.28427 24.28427,30 16,30 Z M16,26 C22.07513,26 27,21.07513 27,15 C27,8.92487 22.07513,4 16,4 C9.924868,4 5,8.92487 5,15 C5,21.07513 9.924868,26 16,26 Z" id="path-1"></path>
+    </defs>
+    <g id="搜索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Clip-3" fill="#B2BCC6" xlink:href="#path-1"></use>
+        <path d="M26.41421,27.414214 C27.19526,26.633165 28.46159,26.633165 29.24264,27.414214 L32.07107,30.242641 C32.85212,31.023689 32.85212,32.290019 32.07107,33.071068 C31.29002,33.852116 30.02369,33.852116 29.24264,33.071068 L26.41421,30.242641 C25.63316,29.461592 25.63316,28.195262 26.41421,27.414214 Z" id="Clip-5" fill="#B2BCC6"></path>
+    </g>
+</svg>
